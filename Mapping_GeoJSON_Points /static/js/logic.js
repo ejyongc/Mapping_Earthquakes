@@ -29,7 +29,8 @@ attribution: 'Map data © <a href="https://www.openstreetmap.org/">OpenStreetMap
 streets.addTo(map);
 
 // Accessing the airport GeoJSON URL
-let airportData = "https://raw.githubusercontent.com/ejyong/Mapping_Earthquakes/Mapping_GeoJSON_Points/majorAirports.json";
+let airportData = "https://raw.githubusercontent.com/ejyongc/Mapping_Earthquakes/main/majorAirports.json";
+console.log(airportData)
 
 // OLDER EXERCISE - Coordinates for each point to be used in the polyline.
 // let line = [
