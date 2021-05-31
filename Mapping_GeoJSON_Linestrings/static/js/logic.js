@@ -106,7 +106,7 @@ let airportData = "https://raw.githubusercontent.com/ejyongc/Mapping_Earthquakes
 // console.log(airportData)
 
 // Accessing the Toronto airline routes GeoJSON URL.
-let torontoData = "https://raw.githubusercontent.com/ejyongc/Mapping_Earthquakes/blob/main/Mapping_GeoJSON_Linestrings/torontoRoutes.json";
+let torontoData = "https://raw.githubusercontent.com/ejyongc/Mapping_Earthquakes/main/Mapping_GeoJSON_Linestrings/torontoRoutes.json";
 
 // Grabbing our GeoJSON data.
 d3.json(torontoData).then(function(data) {
