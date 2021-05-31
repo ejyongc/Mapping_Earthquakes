@@ -109,7 +109,7 @@ let airportData = "https://raw.githubusercontent.com/ejyongc/Mapping_Earthquakes
 let torontoData = "https://raw.githubusercontent.com/ejyongc/Mapping_Earthquakes/main/Mapping_GeoJSON_Linestrings/torontoRoutes.json";
 
 // Accessing the Toronto neighborhoods GeoJSON URL.
-let torontoHoods = "https://raw.githubusercontent.com/ejyong/Mapping_Earthquakes/main/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json";
+let torontoHoods = "https://raw.githubusercontent.com/ejyongc/Mapping_Earthquakes/main/Mapping_GeoJSON_Polygons/torontoNeighborhoods.json";
 
 // Create a style for the lines.
 let myStyle = {
